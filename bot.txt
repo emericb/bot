@@ -1,4 +1,5 @@
+24/03/2020 - 17h30 :
 
-23 mars
-Création du projet.
-lecture du pdf du projet  BOT
+J'ai suivi un tuto sur comment faire un chatbot messenger, ca à fonctionné.
+J'ai voulu refaire un test dans l'après-midi, plus rien ne marche.
+Je continue.
